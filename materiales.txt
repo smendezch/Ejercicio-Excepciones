@@ -1,0 +1,4 @@
+LIBRO;L001;Clean Code;Robert C. Martin;978-0132350884;false
+LIBRO;L002;Effective Java;Joshua Bloch;978-0134685991;true
+LIBRO;L003;Design Patterns;Erich Gamma;978-0201633610;true
+REVISTA;R001;National Geographic;205;false

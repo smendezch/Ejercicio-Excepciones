@@ -1,0 +1,12 @@
+[2026-11-12 18:36:33] MaterialNoDisponibleException
+El material 'Clean Code' (ID: L001) ya está prestado.
+
+[2026-11-12 18:36:33] MaterialNoEncontradoException
+No se encontró ningún material con el ID: L999
+
+[2026-11-12 18:36:33] UsuarioNoEncontradoException
+No se encontró ningún usuario con el ID: 99
+
+[2026-11-12 18:36:33] MaximoPrestamosException
+El usuario Ana Gómez (ID: 1) ha alcanzado el límite máximo de 3 préstamos activos.
+
